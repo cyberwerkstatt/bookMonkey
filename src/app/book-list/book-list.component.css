@@ -1,0 +1,12 @@
+img {
+    width: 200px;
+}
+.list-item {
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 10px;
+}
+
+.data-container {
+    margin-left: 10px;
+}
